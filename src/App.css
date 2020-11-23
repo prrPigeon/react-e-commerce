@@ -3,3 +3,9 @@ body{
     /* overall padding  */
     padding: 20px 60px;
 }
+
+    /* links in header */
+a{
+    text-decoration: none;
+    color: black;
+}
